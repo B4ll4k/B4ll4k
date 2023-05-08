@@ -1,5 +1,8 @@
-# Hi there, I'm Beamlak 👋
-## Software Engineer | Tech Enthusiast | Open Source Contributor
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/B4ll4k" target="blank">
+Beamlak</a></h1>
+<p align="center">
+  <a href=https://github.com/Geekbooi"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things;&center=true&width=500&height=50"></a>
+</p>
 
 ### 🌱 I'm currently learning
 - AWS Cloud Architecture
@@ -43,7 +46,7 @@ I love to play chess!
 ![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS%20Elastic%20Beanstalk-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-Image-blue?logo=docker)
+![Docker](https://img.shields.io/badge/Docker-Image-blue?logo=docker)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
