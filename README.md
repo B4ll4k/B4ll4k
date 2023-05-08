@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/B4ll4k" target="blank">
 Beamlak</a></h1>
 <p align="center">
-  <a href=https://github.com/Geekbooi"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer;Tech+Enthusiast;&center=true&width=500&height=50"></a>
+  <a href=https://github.com/Geekbooi"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Tech+Enthusiast;&center=true&width=500&height=50"></a>
 </p>
 
 ### 🌱 I'm currently learning
