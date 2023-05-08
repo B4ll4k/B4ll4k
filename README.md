@@ -1,10 +1,11 @@
-# Hi there, I'm [Your Name] 👋
-## Java & C# Backend Developer | Tech Enthusiast | Open Source Contributor
+# Hi there, I'm Beamlak 👋
+## Software Engineer | Tech Enthusiast | Open Source Contributor
 
 ### 🌱 I'm currently learning
-- .NET Core
+- AWS Cloud Architecture
 - Docker
 - AWS Lambda
+- Spring Cloud
 
 ### 🔭 I'm currently working on
 - Building a microservices-based e-commerce platform using .NET Core and MongoDB
@@ -12,8 +13,7 @@
 - Deploying and scaling applications on AWS using Elastic Beanstalk and Lambda
 
 ### 💬 Ask me about
-- Java
-- C#
+- Java - C#
 - Spring Boot
 - .NET Core
 - Hibernate
@@ -31,7 +31,7 @@
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ### ⚡ Fun fact
-I love to play chess and have won several local tournaments!
+I love to play chess!
 
 ### 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -50,6 +50,6 @@ I love to play chess and have won several local tournaments!
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your Name's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical" alt="Your Name's top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4ll4k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your Name's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4ll4k&layout=compact&langs_count=8&theme=radical" alt="Your Name's top languages" />
 </p>
